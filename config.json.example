@@ -1,0 +1,6 @@
+{
+    "token": "YourToken",
+    "owner": ["YourId"],
+    "mongodbip": "localhost",
+    "mongodbport": "27017"
+}
