@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">BotEKTEAM</h1>
+    <h1 align="center">Bot marry</h1>
 </p>
 <p align="center">
     <i>Um bot <a href="https://discordapp.com">Discord</a> estável, extremamente rápido e fácil de usar,</a><br> construído usando o  <a href="https://discord.js.org">Discord.js</a> e o <a href="https://nodejs.org">Node.js</a>
